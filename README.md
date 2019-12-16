@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <form>
         <p>
-          Set  a Frequency<br>Frequency denotes the rate of occurrence of a responsibility. In other words,how often something must be done!
+          <b>Set  a Frequency</b><br>Frequency denotes the rate of occurrence of a responsibility. In other words,how often something must be done!
           </br>
         </p>
           <div>
