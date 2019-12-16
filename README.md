@@ -62,7 +62,7 @@ function fill_table(month,month_length)
   }
   document.write("</TR></TABLE><BR>")
 }
-// end hiding -->
+
 
 </script>
 
@@ -88,12 +88,8 @@ fill_table("November",30)
 fill_table("December",31)
 </script>
 
-<p align="center"><font face="arial" size="-2">This free script provided by</font><br>
-<font face="arial, helvetica" size="-2"><a href="http://javascriptkit.com">JavaScript
-Kit</a></font></p>
-
-        
- <P>EVERY <input type="textbox" value="nuber">week</input></P>
+       
+<P>EVERY <input type="textbox" value="nuber">week</input></P>
         
         
       </header>
